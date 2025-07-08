@@ -1,4 +1,4 @@
-import { VIEWPORTS } from 'cypress/support/requirements/requirementVars'
+import { VIEWPORTS } from 'cypress/support/requirementVars'
 import { appTranslations } from 'translations/appTranslations'
 
 import { contactUsPage, esgKPIEnginePage, homePage } from '../pages'
