@@ -75,6 +75,8 @@ GitHub Actions workflow automatically:
 - Caches dependencies for faster builds
 - Uploads test artifacts for debugging
 
+**🎬 See the pipeline in action**: [Latest test run](https://github.com/wojciechHnatiuk/sap_fioneer_testing_challenge/actions/runs/16144608931)
+
 ## 📊 Value-Added Features
 
 Beyond basic requirements:
