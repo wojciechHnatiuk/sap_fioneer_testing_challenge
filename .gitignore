@@ -8,6 +8,7 @@ cypress/screenshots/
 cypress/results/
 cypress/downloads/
 cypress/fixtures/example.json
+actions_runner
 
 # OS generated files
 .DS_Store

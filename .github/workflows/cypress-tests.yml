@@ -9,7 +9,7 @@ on:
 
 jobs:
   cypress-run:
-    runs-on: [self-hosted, macOS, ARM64]
+    runs-on: [self-hosted, macOS, X64]
     env:
       CYPRESS_CACHE_FOLDER: ~/.cache/Cypress
     strategy:
