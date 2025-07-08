@@ -87,5 +87,6 @@ Beyond basic requirements:
 - Automated CI/CD pipeline
 - Git hooks with ESLint for code quality enforcement
 - Comprehensive error handling and reporting
+- Tests ready for multiple languages testing (Often responsive design tests work well with different translations and varying texts length)
 
 ---
